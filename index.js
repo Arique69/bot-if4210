@@ -18,6 +18,10 @@ bot.on('message', message=>{
                 const attachment = new MessageAttachment("./1.jpg");
                 message.channel.send(attachment)
             break;
+            case 'goblok':
+                const attachment2 = new MessageAttachment("https://miro.medium.com/max/3804/1*AU9IikCSfcYw8VPirKCWBQ.jpeg");
+                Message.channel.send(attachment);
+            break;
         }
 })
 
