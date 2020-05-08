@@ -1,0 +1,25 @@
+{
+  "name": "project-69",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "Bapak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arique69/bot-if4210.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Arique69/bot-if4210/issues"
+  },
+  "homepage": "https://github.com/Arique69/bot-if4210#readme",
+  "description": ""
+}
